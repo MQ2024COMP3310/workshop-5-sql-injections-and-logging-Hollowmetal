@@ -120,7 +120,7 @@ public class SQLiteConnectionManager {
     }
 
     /**
-     * Take an id and a word and store the pair in the valid words
+     * Take an id and a word and store the pair in the valid words fx
      * 
      * @param id   the unique id for the word
      * @param word the word to store
